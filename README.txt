@@ -1,9 +1,7 @@
 This is in progress...
 
 Hyperspace by HTML5 UP
-html5up.net | @ajlkn
 Credits:
-
 	Demo Images:
 		Unsplash (unsplash.com)
 
